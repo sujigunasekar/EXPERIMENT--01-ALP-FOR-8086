@@ -110,7 +110,7 @@ hlt
 ```
 mov al,45h
 mov bl,56h
-mul bl
+div bl
 hlt
 ```
 ## Output  
