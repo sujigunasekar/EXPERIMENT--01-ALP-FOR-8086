@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name : SUJI.G
+Roll no :212222230152
+Date of experiment :27.2.23
 
 
 
@@ -78,26 +78,50 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
-
-
-
+```
+mov al,34h
+mov bl,84h
+add al,bl
+hlt
+```
 ## Output  
- 
+![307743195-e6949a32-77bb-45a8-bc27-d291bea005bc](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/c5ace418-748a-4176-91ad-2eae46a83a06)
+
 ## Subtraction   of 8 bit numbers  ALP 
- 
+```
+mov al,56h
+mov bl,45
+sub al,bl
+hlt
+```
 ## Output  
+![307743332-ac7f1f29-3d2f-467e-b2ae-2d388bdb2b52](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/acfd52e2-b210-4bb1-b578-fed6914347a5)
+
 ## Multiplication alp 
- ## Output  
+```
+mov al,45
+mov bl,56
+mul bl
+hlt
+```
+## Output  
+![307743437-f82a0040-fb58-4763-815a-fd47a985fbc8](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/8458cd7e-7e0a-40c8-b833-ee45a6c57d4f)
 
 
 ## Division alp 
-
+```
+mov al,45h
+mov bl,56h
+mul bl
+hlt
+```
 ## Output  
+![307743490-b9b61253-412e-44b7-8023-68030340a15d](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/ddb7bc2c-2bff-4a9a-8c98-c39149b66c02)
 
 
 ## Result :
  
-
+Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
 
 
 
