@@ -82,7 +82,7 @@ add al,bl
 hlt
 ```
 ## Output  
-![307743195-e6949a32-77bb-45a8-bc27-d291bea005bc](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/c5ace418-748a-4176-91ad-2eae46a83a06)
+![308096275-c5ace418-748a-4176-91ad-2eae46a83a06](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/487b1f5b-47ae-470c-bc84-73a208e77657)
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
@@ -92,7 +92,7 @@ sub al,bl
 hlt
 ```
 ## Output  
-![307743332-ac7f1f29-3d2f-467e-b2ae-2d388bdb2b52](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/acfd52e2-b210-4bb1-b578-fed6914347a5)
+![308095220-acfd52e2-b210-4bb1-b578-fed6914347a5](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/00b16a40-0e3c-4eeb-aa1c-b8ea09dee4b5)
 
 ## Multiplication of 8 bit ALP 
 ```
@@ -102,7 +102,8 @@ mul bl
 hlt
 ```
 ## Output  
-![307743437-f82a0040-fb58-4763-815a-fd47a985fbc8](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/8458cd7e-7e0a-40c8-b833-ee45a6c57d4f)
+![308095321-8458cd7e-7e0a-40c8-b833-ee45a6c57d4f](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/e29a82f1-cf99-4019-8358-33d9b9549b7b)
+
 
 
 ## Division of 8 bit ALP 
@@ -113,10 +114,11 @@ mul bl
 hlt
 ```
 ## Output  
-![307743490-b9b61253-412e-44b7-8023-68030340a15d](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/ddb7bc2c-2bff-4a9a-8c98-c39149b66c02)
+![308095384-ddb7bc2c-2bff-4a9a-8c98-c39149b66c02](https://github.com/sujigunasekar/EXPERIMENT--01-ALP-FOR-8086/assets/119559822/7fd97387-900d-49ad-8ff3-9e7236355521)
 
 
 ## Result :
+
  
 Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
 
