@@ -1,7 +1,10 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : SUJI.G
+
 Roll no :212222230152
+
 Date of experiment :27.2.23
+
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
